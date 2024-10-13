@@ -29,6 +29,7 @@ To run this project, follow these steps:
 2. Compile the source code:
    - Make sure you have a C++ compiler installed (e.g., g++).
    - Compile the source code using the following command:
+     
       ``bash
       g++ project.cpp -o MazePathFinder
      ``
