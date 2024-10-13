@@ -1,4 +1,4 @@
-#Maze Path Finding in C++
+# Maze Path Finding in C++
 This repository contains a Maze Path Finding algorithm implemented in C++. The project includes a detailed algorithm report and the C++ source code.
 
 ##Table of Contents
@@ -27,12 +27,11 @@ To run this project, follow these steps:
    ``
   
 2. Compile the source code:
-   -Make sure you have a C++ compiler installed (e.g., g++).
-   Compile the source code using the following command:
-
-  ``bash 
-  g++ project.cpp -o MazePathFinder
-  ``
+   - Make sure you have a C++ compiler installed (e.g., g++).
+   - Compile the source code using the following command:
+      ``bash
+      g++ project.cpp -o MazePathFinder
+     ``
   
 3. Run the compiled program:
 
